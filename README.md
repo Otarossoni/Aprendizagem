@@ -15,3 +15,6 @@ Repositório destinado exclusivamente ao armazenamento de exercícios e pequenos
 ### Tecnologias presentes:
 - Git
 - NodeJS
+- HTML
+- CSS
+- JavaScript
