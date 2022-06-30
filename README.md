@@ -3,7 +3,7 @@ Repositório destinado exclusivamente ao armazenamento de exercícios e pequenos
 
 ## Descrição:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aqui serão armazenados diversos exercícios da área de programação, sendo eles construídos de diversas formas e em várias linguagens. Dentro de cada subpasta haverá um ".txt" com a descrição e funcionamento de cada exercício ou pequeno projeto presente.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aqui serão armazenados diversos exercícios da área de programação, sendo eles construídos de diversas formas e em várias linguagens. Possuirá também pequenos projetos, utilizando tecnologias não para programação propriamente ditas, mas apenas para treinar e aprender sobre elementos e técnicas visuais.
 
 ## Objetivo:
 

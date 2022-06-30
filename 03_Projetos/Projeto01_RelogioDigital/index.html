@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <title>Relógio Digital</title>
+        <meta charset="UTF-8">
+        <link rel="shortcut icon" href="./icon/clockgear.ico" />
+        <link rel="stylesheet" href="./script/style.css" />
+        <script type='text/javascript' src="./script/scripts.js"></script>
+    </head>
+
+    <body>
+        <div id="time">
+            <div class="circle" style="--clr: #44786a;">
+                <div class="dots hr_dot"></div>
+                <svg>
+                    <circle cx="70" cy="70" r="70"></circle>
+                    <circle cx="70" cy="70" r="70" id="hh"></circle>
+                </svg>
+                <div id="hours">00</div>
+            </div>
+            <div class="circle" style="--clr: #3d898d;">
+                <div class="dots min_dot"></div>
+                <svg>
+                    <circle cx="70" cy="70" r="70"></circle>
+                    <circle cx="70" cy="70" r="70" id="mm"></circle>
+                </svg>
+                <div id="minutes">00</div>
+            </div>
+            <div class="circle" style="--clr: #65dc98;">
+                <div class="dots sec_dot"></div>
+                <svg>
+                    <circle cx="70" cy="70" r="70"></circle>
+                    <circle cx="70" cy="70" r="70" id="ss"></circle>
+                </svg>
+                <div id="seconds">00</div>
+            </div>
+            <div class="circle" style="--clr: #1afe49;">
+                <div class="dots milli_dot"></div>
+                <svg>
+                    <circle cx="70" cy="70" r="70"></circle>
+                    <circle cx="70" cy="70" r="70" id="ml"></circle>
+                </svg>
+                <div id="milliseconds">00</div>
+            </div>
+            <div class="ap">
+                <div id="ampm">AM</div>
+            </div>
+        <script>clock();</script>
+        </div>
+    </body>
+</html>
