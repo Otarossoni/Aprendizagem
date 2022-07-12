@@ -1,4 +1,4 @@
-/*Em Javascript, existe o comando "typeof" que permite descobrir o tipo de dado de uma variável!
+/*Em JavaScript, existe o comando "typeof" que permite descobrir o tipo de dado de uma variável!
 Como por exemplo: */
 
 let dia = 12;

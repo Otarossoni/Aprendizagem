@@ -1,5 +1,5 @@
-/*Em Javascript, blocos de código são definidos por um par de chaves "{ }", que pode ou não
-possuir sentenças internar, entretanto, um bloco sempre deve ser fechado por uma chave final.
+/*Em JavaScript, blocos de código são definidos por um par de chaves "{ }", que pode ou não
+possuir sentenças internas, entretanto, um bloco sempre deve ser fechado por uma chave final.
 Como nos exemplos abaixo:
 */
 
